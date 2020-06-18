@@ -1,0 +1,20 @@
+1-) https://dotnet.microsoft.com/download linkinden .net core 3.1 sdk indir.
+2-) https://nodejs.org/en/download/ linkinden node.js LTS indir.
+3-) https://sqlitebrowser.org/ adresinden en son versiyonu indir
+Not: Extensionlar:c#,C# extensions, nuget package manager
+4-) dotnet start webapi
+5-) development mode
+6-) dotnet watch run
+7-) DBContext Kullan
+8-) Nuget ile beraber ekle model oluştur Microsoft.EntityFrameworkCore,Microsoft.EntityFrameworkCore.Sqlite,Microsoft.EntityFrameworkCore.Design;
+9-) dotnet tool install --global dotnet-ef
+10-) dotnet ef migrations add InitialCreate dotnet update database
+11-) Sql database yeni veritabanı -- Browse Data -- New Record -- Write Changes
+12-) ctor -- model
+13-) Firstordefault olmazsa 204 kodu döndürür
+14-) Senkron yaparsak bir metodu sadece bir işlem kullanır.
+15-) npm install -g @angular/cli
+16-) ng new appname
+17-) app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()); 
+18-) app.UseCors(x => x.WithOrigins().AllowAnyMethod().AllowAnyHeader()); 
+19-) npm install bootstrap font-awesome (bunu angular içine yüklemeyi unutma)
